@@ -1,0 +1,3 @@
+[submodule "risikogebiete_deutschland"]
+	path = risikogebiete_deutschland
+	url = https://github.com/hasselmm/risikogebiete_deutschland
